@@ -40,7 +40,7 @@
                   <a class="nav-link mr-3 h5" href="../public/aboutme">About me</a>
                   </li>
                   <li class="nav-item">
-                  <a class="nav-link mr-3 h5" href="../public/contacts">Contacts</a>
+                  <a class="nav-link mr-3 h5" href="/contacts">Contacts</a>
                   </li>
               </ul>
           </div>
